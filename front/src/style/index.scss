@@ -1,0 +1,24 @@
+.text-right {
+text-align: right;
+}
+.m-10 {
+margin: 10px;
+}
+.f-r{
+float:right;
+}
+.flex-wrap {
+display: flex;
+  
+&.is-justify-space-between {
+justify-content: space-between;
+}
+  
+&.is-wrap {
+flex-wrap: wrap;
+}
+  
+.flex-1 {
+flex: 1;
+}
+}

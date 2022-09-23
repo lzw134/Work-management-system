@@ -1,0 +1,27 @@
+.text-right {
+  text-align: right;
+}
+
+.m-10 {
+  margin: 10px;
+}
+
+.f-r {
+  float: right;
+}
+
+.flex-wrap {
+  display: flex;
+}
+
+.flex-wrap.is-justify-space-between {
+  justify-content: space-between;
+}
+
+.flex-wrap.is-wrap {
+  flex-wrap: wrap;
+}
+
+.flex-wrap .flex-1 {
+  flex: 1;
+}
